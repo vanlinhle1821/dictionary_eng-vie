@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\WindowsFormsApp_TuDienNoiAnh-Viet\bin\Debug\WindowsFormsApp_TuDienNoiAnh-Viet.exe.config
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\WindowsFormsApp_TuDienNoiAnh-Viet\bin\Debug\WindowsFormsApp_TuDienNoiAnh-Viet.exe
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\WindowsFormsApp_TuDienNoiAnh-Viet\bin\Debug\WindowsFormsApp_TuDienNoiAnh-Viet.pdb
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\WindowsFormsApp_TuDienNoiAnh-Viet\obj\Debug\WindowsFormsApp_TuDienNoiAnh-Viet.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\WindowsFormsApp_TuDienNoiAnh-Viet\obj\Debug\WindowsFormsApp_TuDienNoiAnh-Viet.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\WindowsFormsApp_TuDienNoiAnh-Viet\obj\Debug\WindowsFormsApp_TuDienNoiAnh_Viet.Form1.resources
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\WindowsFormsApp_TuDienNoiAnh-Viet\obj\Debug\WindowsFormsApp_TuDienNoiAnh_Viet.Properties.Resources.resources
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\WindowsFormsApp_TuDienNoiAnh-Viet\obj\Debug\WindowsFormsApp_TuDienNoiAnh-Viet.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\WindowsFormsApp_TuDienNoiAnh-Viet\obj\Debug\WindowsFormsApp_TuDienNoiAnh-Viet.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\WindowsFormsApp_TuDienNoiAnh-Viet\obj\Debug\WindowsFormsApp_TuDienNoiAnh-Viet.exe
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\WindowsFormsApp_TuDienNoiAnh-Viet\obj\Debug\WindowsFormsApp_TuDienNoiAnh-Viet.pdb

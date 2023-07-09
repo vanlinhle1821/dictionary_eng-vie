@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\Web1\bin\Debug\Web1.exe.config
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\Web1\bin\Debug\Web1.exe
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\Web1\bin\Debug\Web1.pdb
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\Web1\obj\Debug\Web1.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\Web1\obj\Debug\Web1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\Web1\obj\Debug\Web1.Form1.resources
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\Web1\obj\Debug\Web1.Properties.Resources.resources
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\Web1\obj\Debug\Web1.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\Web1\obj\Debug\Web1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\Web1\obj\Debug\Web1.exe
+C:\Users\ASUS\source\repos\WindowsFormsApp_TuDienNoiAnh-Viet\Web1\obj\Debug\Web1.pdb
